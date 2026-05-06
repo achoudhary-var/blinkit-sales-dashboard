@@ -24,7 +24,7 @@ To build an interactive dashboard for tracking sales KPIs and identifying insigh
 [screenshots/Blinkit-DashBoard.png](https://github.com/achoudhary-var/blinkit-sales-dashboard/blob/main/screenshots/Blinkit-DashBoard.png)
 
 ## 🔗 LinkedIn Post
-[(Add your video link)](https://www.linkedin.com/feed/update/urn:li:activity:7369778223330594818/)
+[Blinkit Sales Dashboard clip)](https://www.linkedin.com/feed/update/urn:li:activity:7369778223330594818/)
 
 ## ✅ Conclusion
 The dashboard provides insights for business decision-making.
